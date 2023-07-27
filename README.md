@@ -1,24 +1,11 @@
-# photo-game-cli
+# Welcome to Baitoto
 
-## Project setup
-```
-npm install
-```
+This project was generated with [Vue CLI](https://github.com/vuejs/create-vue)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tech Stack
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Vue, Bootstrap
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Info
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A website that I decided to make after some inspiration from typical memory flashcard games. Originally, this did not have a scoring system and it only had the feature to flip and unflip. After a while, I decided to replicate Wordle's Guess Distribution for this game as well. This was done using Charts.css, which provided an easy-to-implement system to put charts on your website, using classes just like Bootstrap.
